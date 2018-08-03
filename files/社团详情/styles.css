@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u116_div {
+#u118_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,14 +29,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u116 {
+#u118 {
   position:absolute;
   left:0px;
   top:0px;
   width:1280px;
   height:1140px;
 }
-#u117 {
+#u119 {
   position:absolute;
   left:2px;
   top:562px;
@@ -44,14 +44,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u118 {
+#u120 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u119_div {
+#u121_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -65,14 +65,14 @@
   -webkit-box-shadow:5px 5px 10px rgba(107, 107, 107, 0.349019607843137);
   box-shadow:5px 5px 10px rgba(107, 107, 107, 0.349019607843137);
 }
-#u119 {
+#u121 {
   position:absolute;
   left:0px;
   top:0px;
   width:1280px;
   height:50px;
 }
-#u120 {
+#u122 {
   position:absolute;
   left:2px;
   top:17px;
@@ -80,28 +80,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u121 {
+#u123 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u122_img {
+#u124_img {
   position:absolute;
   left:0px;
   top:0px;
   width:30px;
   height:30px;
 }
-#u122 {
+#u124 {
   position:absolute;
   left:150px;
   top:10px;
   width:30px;
   height:30px;
 }
-#u123 {
+#u125 {
   position:absolute;
   left:2px;
   top:7px;
@@ -109,7 +109,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u124_div {
+#u126_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -127,7 +127,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u124 {
+#u126 {
   position:absolute;
   left:190px;
   top:16px;
@@ -138,68 +138,12 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u125 {
+#u127 {
   position:absolute;
   left:0px;
   top:0px;
   width:102px;
   white-space:nowrap;
-}
-#u126_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:60px;
-  height:30px;
-  background:inherit;
-  background-color:rgba(49, 123, 168, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft YaHei UI';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u126 {
-  position:absolute;
-  left:1000px;
-  top:10px;
-  width:60px;
-  height:30px;
-  font-family:'Microsoft YaHei UI';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u126_div.mouseOver {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:60px;
-  height:30px;
-  background:inherit;
-  background-color:rgba(47, 97, 127, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft YaHei UI';
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
-}
-#u126.mouseOver {
-}
-#u127 {
-  position:absolute;
-  left:2px;
-  top:7px;
-  width:56px;
-  word-wrap:break-word;
 }
 #u128_div {
   position:absolute;
@@ -221,7 +165,7 @@
 }
 #u128 {
   position:absolute;
-  left:1070px;
+  left:1000px;
   top:10px;
   width:60px;
   height:30px;
@@ -251,6 +195,62 @@
 #u128.mouseOver {
 }
 #u129 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:56px;
+  word-wrap:break-word;
+}
+#u130_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(49, 123, 168, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u130 {
+  position:absolute;
+  left:1070px;
+  top:10px;
+  width:60px;
+  height:30px;
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u130_div.mouseOver {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(47, 97, 127, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u130.mouseOver {
+}
+#u131 {
   position:absolute;
   left:2px;
   top:7px;
