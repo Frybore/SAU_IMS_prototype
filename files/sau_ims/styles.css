@@ -43,7 +43,7 @@
   font-style:normal;
   text-align:center;
 }
-#u1 {
+#u0_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -51,7 +51,7 @@
   width:299px;
   white-space:nowrap;
 }
-#u2_div {
+#u1_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,7 +69,7 @@
   text-align:center;
   line-height:28px;
 }
-#u2 {
+#u1 {
   border-width:0px;
   position:absolute;
   left:157px;
@@ -80,7 +80,7 @@
   text-align:center;
   line-height:28px;
 }
-#u3 {
+#u1_text {
   border-width:0px;
   position:absolute;
   left:0px;
