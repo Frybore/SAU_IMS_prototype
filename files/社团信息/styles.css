@@ -1353,7 +1353,7 @@
   left:0px;
   top:0px;
   width:188px;
-  height:18px;
+  height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1361,14 +1361,16 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:16px;
 }
 .u490 {
   border-width:0px;
   position:absolute;
   left:18px;
-  top:19px;
+  top:18px;
   width:188px;
-  height:18px;
+  height:19px;
+  font-size:16px;
 }
 .u490_text {
   border-width:0px;
